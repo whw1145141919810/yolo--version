@@ -1,0 +1,10 @@
+/build/
+/.venv/
+*.onnx
+*.onnx.data
+*.pt
+/armor_test.bmp
+/armor_result_cpp.jpg
+/armor_model_input_cpp.jpg
+/armor_live_*.avi
+/runs/
